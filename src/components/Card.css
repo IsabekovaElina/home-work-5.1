@@ -1,0 +1,20 @@
+.key {
+  width: 200px;
+  height: 250px;
+  background: linear-gradient(red, rgb(214, 19, 211));
+  border-radius: 30%;
+}
+
+.img {
+    padding:30px;
+  width: 120px;
+  height: 120px;
+}
+.text{
+    margin-top: 100px;
+    width: 150px;
+    height: 150px;
+    background: linear-gradient(green,rgb(105, 234, 105));
+}
+
+
